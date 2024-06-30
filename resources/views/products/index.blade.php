@@ -21,7 +21,7 @@
 </nav>
 <div class="container">
     <div class="d-flex justify-content-end mt-2">
-        <a href="/product/create" class="btn btn-primary btn-dark">Create a new Product</a>
+        <a href="/products/create" class="btn btn-primary btn-dark">Create a new Product</a>
     </div>
     <h1>Products</h1>
 </div>

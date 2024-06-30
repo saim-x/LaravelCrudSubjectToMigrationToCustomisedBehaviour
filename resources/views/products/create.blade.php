@@ -29,7 +29,7 @@
 
             <div class="col-sm-8">
                 <div class="card mt-3 p-3">
-                    <form action="/products/store" method="POST">
+                    <form action="/products/store" method="POST" enctype="multipart/form-data">
                         @csrf
 
                         <div class="mb-3">
